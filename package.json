@@ -1,0 +1,10 @@
+{
+  "name": "oracle-tui",
+  "version": "0.1.0",
+  "description": "Agentic terminal dashboard for the SuperInstance fleet",
+  "type": "module",
+  "main": "oracle-tui.js",
+  "scripts": {
+    "start": "node oracle-tui.js"
+  }
+}
